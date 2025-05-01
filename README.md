@@ -1,1 +1,114 @@
-# nmzthmruan
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nik Mumtazah Alia - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="profile.jpg" alt="Profile Picture">
+        <div>
+            <h1>Nik Mumtazah Alia Binti Nik Maruan</h1>
+            <p><strong>Phone:</strong> 011-64388544</p>
+            <p><strong>Email:</strong> <a href="mailto:mmtzhhh960@gmail.com">mmtzhhh960@gmail.com</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/mmtzhalia" target="_blank">mmtzhalia</a></p>
+            <p><strong>Address:</strong> 1893, Jalan Kuala Krai, Batu 11, 16450 Ketereh, Kota Bharu, Kelantan</p>
+        </div>
+    </div>
+
+    <section>
+        <h2>Professional Summary</h2>
+        <p>Motivated and disciplined second-year Food Biotechnology student at Universiti Sains Islam Malaysia (USIM), with a passion for halal sciences and food quality assurance. Seeking a future role as a Halal Executive, where I can apply my academic knowledge and personal values to ensure halal integrity in the food industry. Experienced in online Quran teaching, with strong communication and leadership skills.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>SMKA Naim Lilbanat:</strong> Achieved 10As in SPM. Active in Islamic leadership and school activities.</li>
+            <li><strong>Kolej Matrikulasi Kelantan:</strong> Science stream. Participated in study circles and campus events.</li>
+            <li><strong>Universiti Sains Islam Malaysia (USIM):</strong> Bachelor of Food Biotechnology, Year 2 Semester 2.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Microsoft Office</li>
+            <li>Canva</li>
+            <li>Google Meet</li>
+            <li>Teamwork</li>
+            <li>Time Management</li>
+            <li>Public Speaking</li>
+            <li>Critical Thinking</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>Malay (Native)</li>
+            <li>English (Fluent)</li>
+            <li>Arabic (Basic)</li>
+            <li>French (Basic)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <p><strong>Freelance Quran Teacher | Online | 2023–Present</strong></p>
+        <ul>
+            <li>Conducted regular online Quran classes using digital platforms.</li>
+            <li>Created personalized learning plans based on students' level and pace.</li>
+            <li>Ensured consistent student engagement using interactive teaching methods.</li>
+            <li>Helped students improve tajwid, pronunciation, and memorization skills.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <p><strong>Popfinity – Student Business Initiative | USIM | 2024</strong></p>
+        <ul>
+            <li>Co-founded and managed a premium popcorn business selling caramel popcorn on campus.</li>
+            <li>Led marketing efforts through social media, creative packaging, and face-to-face promotion.</li>
+            <li>Coordinated with team members to manage production, budgeting, and customer feedback.</li>
+            <li>Developed entrepreneurial thinking and problem-solving through real-time business challenges.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Interests</h2>
+        <ul>
+            <li>Baking & trying new halal recipes</li>
+            <li>Teaching and community volunteering</li>
+            <li>Learning languages and Islamic studies</li>
+        </ul>
+    </section>
+</body>
+</html>
